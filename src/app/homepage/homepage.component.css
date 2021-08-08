@@ -1,0 +1,21 @@
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+div.title {
+    margin:auto;
+}
+
+img.headshot {
+    width: 75%;
+    padding-bottom: 12px;
+    margin: 0;
+}
+
+img.app-img {
+    width:100%;
+}

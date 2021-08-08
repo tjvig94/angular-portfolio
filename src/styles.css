@@ -1,18 +1,6 @@
-body {
+body.main {
     color: white;
     background-color: #8ac4d0;
-}
-
-a {
-    color: white;
-}
-
-a:hover, a:focus, a:active {
-    text-decoration: none;
-    color: gray;
-}
-
-h1, h2, h3, p, a, li {    
     font-family: 'Lato', sans-serif;
 }
 
@@ -32,27 +20,8 @@ p {
     font-size: 1.25rem;
 }
 
-div.title {
-    margin:auto;
-}
-
-img.headshot {
-    width: 75%;
-    padding-bottom: 12px;
-    margin: 0;
-}
-
-img.app-img {
-    width:100%;
-}
-
 img.trait-img {
     height:300px;
     border-radius:100%;
     margin: auto;
-}
-
-li.nav-link:hover {
-    cursor: pointer;
-    color: gray;
 }
